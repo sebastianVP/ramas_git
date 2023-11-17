@@ -5,3 +5,5 @@ AHORA LA APLICACION USA MULTIPROCESAMIENTO
 NUEVO COMMIT 16/11/2023
 soy el branch nueva_caracteristica
 Actualizacion y mejorar de la velocidad de ejecucion
+# ULtima mejora Rama2 
+---
